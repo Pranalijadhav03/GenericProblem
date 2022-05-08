@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Genric\Genric\bin\Debug\net6.0\Genric.exe
+C:\Users\user\source\repos\Genric\Genric\bin\Debug\net6.0\Genric.deps.json
+C:\Users\user\source\repos\Genric\Genric\bin\Debug\net6.0\Genric.runtimeconfig.json
+C:\Users\user\source\repos\Genric\Genric\bin\Debug\net6.0\Genric.dll
+C:\Users\user\source\repos\Genric\Genric\bin\Debug\net6.0\Genric.pdb
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.AssemblyInfo.cs
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.dll
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\refint\Genric.dll
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.pdb
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\Genric.genruntimeconfig.cache
+C:\Users\user\source\repos\Genric\Genric\obj\Debug\net6.0\ref\Genric.dll
